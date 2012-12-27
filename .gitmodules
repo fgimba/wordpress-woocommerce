@@ -4,3 +4,6 @@
 [submodule "wp-content/plugins/woocommerce"]
 	path = wp-content/plugins/woocommerce
 	url = ssh://git@github.com/jesusangel/woocommerce.git
+[submodule "wp-content/plugins/wc_sermepa_payment_gateway"]
+	path = wp-content/plugins/wc_sermepa_payment_gateway
+	url = ssh://git@github.com/jesusangel/wc-sermepa
