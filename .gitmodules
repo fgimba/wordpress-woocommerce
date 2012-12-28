@@ -7,3 +7,6 @@
 [submodule "wp-content/plugins/wc_sermepa_payment_gateway"]
 	path = wp-content/plugins/wc_sermepa_payment_gateway
 	url = ssh://git@github.com/jesusangel/wc-sermepa
+[submodule "wp-content/plugins/woocommerce-delivery-notes"]
+	path = wp-content/plugins/woocommerce-delivery-notes
+	url = git://github.com/piffpaffpuff/woocommerce-delivery-notes.git
