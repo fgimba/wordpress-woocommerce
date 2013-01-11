@@ -10,3 +10,6 @@
 [submodule "wp-content/plugins/woocommerce-delivery-notes"]
 	path = wp-content/plugins/woocommerce-delivery-notes
 	url = git://github.com/piffpaffpuff/woocommerce-delivery-notes.git
+[submodule "wp-content/plugins/wpml"]
+	path = wp-content/plugins/wpml
+	url = ssh://git@github.com/jesusangel/wpml.git
